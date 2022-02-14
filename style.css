@@ -1,0 +1,56 @@
+.heading-us{
+    font-size: 40px;
+    display: inline;
+}
+.fontie{
+    font-family: "Hachi Maru Pop";
+    font-weight: bolder;
+}
+
+.stuff{
+    width: 100%;
+    margin-bottom: 40px;
+    padding: 20px
+}
+
+.instr{
+    background-image: linear-gradient(to left, deeppink, gray);
+    color: navy;
+    margin-left: 60px;
+    font-size: 30px;
+}
+
+.big_image{
+    width: 700px;
+    margin-bottom: 50px;
+}
+
+.buttonz{
+    padding: 15px;
+    background-image: linear-gradient(to bottom right, peru, grey);
+}
+
+#creditfooter{
+    text-align: center;
+    margin: 0px;
+    padding: 30px;
+    color: lightseagreen;
+    background-image: linear-gradient(to bottom left, thistle, lemonchiffon, lightblue);
+    border: 5px ridge lightseagreen;
+}
+
+a{
+    color: whitesmoke;
+}
+
+.imagiz{
+    width: 40%;
+    display: inline-block;
+    margin: 30px;
+    border-radius: 40px;
+    border: 10px ridge darkcyan
+}
+
+.modal-dialog{
+    width: 90%;
+}
